@@ -7,6 +7,7 @@ package entornos3t2;
 /**
  *
  * @author PACO
+ * @author María Sanz Fuentes
  */
 public class Pakemon {
 
